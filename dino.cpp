@@ -7,7 +7,7 @@ bool gameOver = false;
 const int width = 100;
 const int height = 10;
 int hurdle[width];
-bool pos = false; // can be true or false (jump or normal)ww
+bool pos = false; 
 int x = 90;
 int y = height - 1;
 int score = 0;
